@@ -12,15 +12,13 @@ Hey want to install this do this
 
 6.All
 
-7.cd panel.zip 
+7.sudo apt install openjdk-21-jdk -y
 
-8.sudo apt install openjdk-21-jdk -y
+8.curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
 
-9.curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
+9.npm i
 
-10.npm i
-
-11.npm start
+10.npm start
 
 npm install pm2@latest -g
 
