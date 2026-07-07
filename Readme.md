@@ -19,7 +19,8 @@ Hey want to install this do this
 9.npm i
 
 10.npm start
-11.npm install pm2@latest -g
-12.pm2 start  app.js
-13.pm2 startup
-14.pm2 save
+
+npm install pm2@latest -g
+pm2 start  app.js
+pm2 startup
+pm2 save
