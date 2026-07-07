@@ -16,9 +16,11 @@ Hey want to install this do this
 
 8.curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
 
-9.npm i
+9.apt install nodejs -y
 
-10.npm start
+10.npm i
+
+11.npm start
 
 npm install pm2@latest -g
 
