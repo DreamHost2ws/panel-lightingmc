@@ -21,6 +21,10 @@ Hey want to install this do this
 10.npm start
 
 npm install pm2@latest -g
+
 pm2 start  app.js
+
 pm2 startup
+
 pm2 save
+
